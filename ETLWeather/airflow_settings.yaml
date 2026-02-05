@@ -1,0 +1,19 @@
+
+
+airflow:
+  connections:
+  - conn_id: weather_postgres
+    conn_type: postgres
+    host: postgres
+    schema: weather_db
+    login: airflow
+    password: airflow
+    port: 5432
+    example_extra_field: example-value
+  pools:
+    - pool_name:
+      pool_slot:
+      pool_description:
+  variables:
+    - variable_name:
+      variable_value:
