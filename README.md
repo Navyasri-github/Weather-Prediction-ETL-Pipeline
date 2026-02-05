@@ -1,9 +1,9 @@
 # Weather-Prediction-ETL-Pipeline
-A hands-on project demonstrating how to build a complete ETL pipeline using **Apache Airflow** and **Astronomer (Astro)**. This repository showcases data extraction, transformation, and loading workflows orchestrated in Airflow with Astro’s enhanced tooling for production-ready pipelines.
+A hands-on project demonstrating how to build a complete ETL pipeline using Apache Airflow and Astronomer (Astro).This repository showcases data extraction, transformation, and loading workflows orchestrated in Airflow with Astro’s enhanced tooling for production-ready pipelines.
 
 
 ## Project Overview
-This project demonstrates how to build an **end-to-end ETL pipeline**:
+This project demonstrates how to build an end-to-end ETL pipeline
 
 - **Extract**: Pull data from public APIs or CSV sources.
 - **Transform**: Clean, normalize, and enrich the data for analytics.
